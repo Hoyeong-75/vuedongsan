@@ -1,5 +1,4 @@
 <template>
-요기가 메인 작업부분 입니다,.
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
